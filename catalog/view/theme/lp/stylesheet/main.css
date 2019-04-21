@@ -14,3 +14,7 @@
 
 .parallax-window {
   min-height: 400px; }
+  .parallax-window .main_text h1 {
+    text-align: center; }
+  .parallax-window .main_text h2 {
+    text-align: center; }

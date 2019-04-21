@@ -93,9 +93,16 @@
               <?php } ?>
             </div>
           </div>
-          <div class="col-sm-5"><?php echo $search; ?>
-          </div>
+          <div class="col-sm-5"></div>
           <div class="col-sm-3"><?php echo $cart; ?></div>
+        </div>
+      </div>
+      <div class="container main_text">
+        <div class="row">
+          <div class="col-sm-12">
+            <h1>Свой сайт - это просто, быстро и недорого!</h1>
+            <h2>Выбирайте сайт, а мы все установим</h2>
+          </div>
         </div>
       </div>
     </div>
